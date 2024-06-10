@@ -1,0 +1,1 @@
+> TODO: Add guidance on moisture management. i.e. moisture management is not complicated. condensing vs venting... and not letting moisture drip. moisture in the hive *isn't necessarily bad*
