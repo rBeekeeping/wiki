@@ -3,7 +3,7 @@ Honey is a hydrophilic substance. It very much wants to absorb water. Bees spend
 product is acidic and very low moisture. This makes it inhospitable to growth of fungus, yeast and bacteria.
 
 ## Target Moisture
-A good target moisture is right around 18% water. For the most part, capped honey will be right around that level. Refer to [rules of thumb on honey moisture](/wiki/rules_of_thumb/ready_when_capped)
+A good target moisture is right around 18% water. For the most part, capped honey will be right around that level. Refer to [rules of thumb on honey moisture](/rules_of_thumb/ready_when_capped)
 for more information on when this is not true and how to measure it.
 
 ## My honey is too wet!

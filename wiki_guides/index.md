@@ -2,17 +2,17 @@
 
 Remember that for every question, you'll get N beekeepers and N+3 opinions? Disagreement is fine - it's healthy. We expect disagremeent on the contents of the wiki. You are welcome to add a different view to some of this content, as long as you give an honest critique of your opinion. Simply put, saying "all of this is wrong because I do it this way and it works for me" isn't going to fly, but saying "This is my experience, and I'd like to add some content to show this as an *option* for people", that does fly - the maintainers will discuss anything you add if it's too edgy. The rules of engagement on this wiki are the same as they are on the subreddit: Be civil, Be respectful, Be helpful - Disagreement is healty when it's communicated in a respectful way. 
 
-If you think (or know) that you have a controversial opinion, such as being treatment-free or letting colonies swarm endlessly, and want to discuss any changes of the content on the wiki, you are *more* than welcome to raise a [discussion on the repo](https://github.com/rBeekeeping/wiki/discussions/new/choose) and discuss it with the maintainers, or you can make changes to the repo and raise a pull request (see below). Discussions can then happen based off of the content you wish to add.
+If you think (or know) that you have a controversial opinion, such as being treatment-free or letting colonies swarm endlessly, and want to discuss any changes of the content on the wiki, you are *more* than welcome to raise a [discussion on the repo](https://github.com/rBeekeeping/discussions/new/choose) and discuss it with the maintainers, or you can make changes to the repo and raise a pull request (see below). Discussions can then happen based off of the content you wish to add.
  
 ## Things to remember
 
 Github runs on markdown (the same as reddit) - [here's a cheat sheet.](https://www.markdownguide.org/cheat-sheet/)
  
 ### Links 
-When you make a link by doing `[]()` you must add `/wiki` to the start of the page you link to; and also remove the .md from the end. If you don't, it will not add the `/wiki` automatically, so links break; and `.md` paths link directly to the file rather than the page. For example, if you added a link like this: `[link text](/directory/page.md)` you would need to make it `[link text](/wiki/directory/page)`
+When you make a link by doing `[]()` you must add `` to the start of the page you link to; and also remove the .md from the end. If you don't, it will not add the `` automatically, so links break; and `.md` paths link directly to the file rather than the page. For example, if you added a link like this: `[link text](/directory/page.md)` you would need to make it `[link text](/directory/page)`
 
-* [Here is an example of a link without the /wiki](/guides/equipment.md)
-* [Here's an example of a link with the .md in the path](/wiki/guides/equipment.md)
+* [Here is an example of a link without the ](/guides/equipment.md)
+* [Here's an example of a link with the .md in the path](/guides/equipment.md)
 * [And here is an example of a fully working link](/guides/equipment)
 
 ### Folder structure
@@ -21,7 +21,7 @@ When you make a link by doing `[]()` you must add `/wiki` to the start of the pa
 * Everything should be all lower case in snake_case.
     * Files should be `example_file_name.md` 
     * Directories should be `example_directory`
-* Directories should always have an index.md either; describing what the directory is for; or containing any content that should be navigable... such as /wiki/biology containing an `index.md` with a general overview of the section including links to the child pages.
+* Directories should always have an index.md either; describing what the directory is for; or containing any content that should be navigable... such as /biology containing an `index.md` with a general overview of the section including links to the child pages.
 * directories that should never be linked to should start with an underscore (eg. _my_hidden_directory)
 
 ## Adding / changing content 
@@ -37,7 +37,7 @@ When you make a link by doing `[]()` you must add `/wiki` to the start of the pa
 
 > **Note:** Currently, there are no blockers on committing content for approved contributors. Once the main wiki is finished, we will revoke this so that only our maintainers can approve content.
 
-1. Go to https://github.dev/rBeekeeping/wiki
+1. Go to https://github.dev/rBeekeeping
 1. Write whatever content you want to add (see below)
 
 ### Adding a new page
@@ -51,7 +51,7 @@ When you make a link by doing `[]()` you must add `/wiki` to the start of the pa
 
 ### Updating existing content
 
-1. Find the page you want to amend. It will be in the same path as the URL of the website. i.e. `/wiki/diseases/efb` will live at `/diseases/efb.md`.
+1. Find the page you want to amend. It will be in the same path as the URL of the website. i.e. `/diseases/efb` will live at `/diseases/efb.md`.
 1. Modify the content as you need to
 1. See below
 

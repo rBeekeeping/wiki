@@ -41,7 +41,7 @@ During defence, guard bees appear at the hive entrance, raising their abdomen an
 
 Alarm pheromones are produced by the Koschevnikov gland and gland-containing areas around the sting sheath. The active component of the sting alarm pheromone is isopentyal acetate ("IPA", not one you'd want to drink). Its release alerts other workers to commence defensive behaviours. The concentrations of IPA are nil in queens, and slowly develop in worker bees, peaking at 2-3 weeks of age when they begin guard duties. IPA is the main active component, but not the only one - others like 2-heptanol or 2-nonnal can trigger defensive behaviour, and the complete alarm pheromone is a blend of over 40 compounds.
 
-The composition of the alarm pheromone is subspecies specific - [Africanised bees](https://rbeekeeping.github.io/wiki/biology/Africanized_honeybees) have higher levels of its component chemicals, and more IPA. This could be why they're so aggressive ("defensive") when triggered.
+The composition of the alarm pheromone is subspecies specific - [Africanised bees](https://rbeekeeping.github.io/biology/Africanized_honeybees) have higher levels of its component chemicals, and more IPA. This could be why they're so aggressive ("defensive") when triggered.
 ### Worker Tarsal Pheromone
 Like queens, the workers have a footprint pheromone. Williams and colleagues suggest that it is a "close proximity" equivalent of the Nasonov gland, serving as a method of marking comb, the hive entrance and rich forage for nearby bees. The Nasonov is for long-distance marking, as demonstrated by its ability to guide swarms to their new home.
 ### Worker Tergal Gland Pheromones

@@ -54,7 +54,7 @@ Ontop of above drivers, there are also pre-requisites to swarming. These are:
 
 This is known as the "swarm triangle", and is what all swarm control methods are based upon. A complete triangle is a recipe for a swarm. Imagine this like so: 
 
-![Image showing the 3 prerequisites as a triangle](/wiki/images/swarm_triangle.png)
+![Image showing the 3 prerequisites as a triangle](/images/swarm_triangle.png)
 
 Remove one of these from a colony, and you remove the colony's drive to swarm, as their swarm triangle is incomplete. 
 
@@ -95,7 +95,7 @@ Over the next $notLong, nurses will migrate up through the hive onto the brood t
 
 ## Removing Flying Bees
 
-(This is also covered on our [3 Feet or 3 Miles](/wiki/rules_of_thumb/three_feet_three_miles) page)
+(This is also covered on our [3 Feet or 3 Miles](/rules_of_thumb/three_feet_three_miles) page)
 
 When flying bees are coming and going from a hive, they don't orient themselves every time they leave the hive. They only do so a handful of times in their life. Imagine a scenario where you are in your house, and you leave for the first time - when you do, you go for a look around to make sure you know where the house is, what street it's on, and what number it is. Then, whenever you leave the house, you do so blindfolded. You run off in a particular direction, take your blindfold off, collect your pollen, and then walk home. Lets say someone drugs you and moves you to another house... the next morning you wake up blindfolded, you run out of the house, blindfold off, grab pollen, come home. Where do you end up? Not at the house you left, but at the place you know is home. 
 

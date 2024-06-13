@@ -6,7 +6,7 @@
 
 The pagden split is a little more complicated than most methods, however it is exceptional as a means of swarm control. It leaves one colony with almost all the brood, and leaves the queen where she is. Both colonies will have plenty of room, and you will still have a booming box of bees at the end of the process.
 
-If you want to understand why this works, read the [Swarm Control](/wiki/queen_events/swarming/swarm_control) page.
+If you want to understand why this works, read the [Swarm Control](/queen_events/swarming/swarm_control) page.
 
 # Required Equipment
 
@@ -23,7 +23,7 @@ If you want to understand why this works, read the [Swarm Control](/wiki/queen_e
 
 1. Remove four frames from the new hive body
 1. Find the queen, and place the frame the queen is on into the new hive body
-    * or [perform a queen sieve manipulation](/wiki/queen_events/swarming/swarm_control#but-i-cant-find-her)
+    * or [perform a queen sieve manipulation](/queen_events/swarming/swarm_control#but-i-cant-find-her)
 1. Add a frame of stores into the new hive body
 1. Backfill the remaining gap with fresh frames
     * **IMPORTANT: you MUST remove ALL queen cells from ALL frame in the new box**
@@ -32,7 +32,7 @@ If you want to understand why this works, read the [Swarm Control](/wiki/queen_e
     * It can be on the same hive stand, just pick a spot a that's furthest away (but don't fret if it's not that far)
 1. Place the queenright hive body onto the stand where the old one was
 1. Place the queenless hive in the new location
-1. [Reduce queen cells](/wiki/queen_events/swarming/manipulations/queen_cells)
+1. [Reduce queen cells](/queen_events/swarming/manipulations/queen_cells)
 
 *Note: Please read the reducing cells page. The manipulation isn't finished until you also follow that page.*
 

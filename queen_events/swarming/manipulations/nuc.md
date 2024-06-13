@@ -4,7 +4,7 @@
 
 ---
 
-A nuc split is as easy as they come. The number 2 is all you need to remember. If you want to understand why this works, read the [Swarm Control](/wiki/queen_events/swarming/swarm_control) page.
+A nuc split is as easy as they come. The number 2 is all you need to remember. If you want to understand why this works, read the [Swarm Control](/queen_events/swarming/swarm_control) page.
 
 # Required Equipment
 
@@ -26,7 +26,7 @@ You need 2 frames of brood, 2 frames of stores, and 2 blank frames
 1. Add 2 blank frames (foundation or drawn)
 1. Put the lid on the nuc
 1. Backfill the original hive with blank frames
-1. [Reduce swarm cells](/wiki/queen_events/swarming/manipulations/queen_cells)
+1. [Reduce swarm cells](/queen_events/swarming/manipulations/queen_cells)
 
 *Note: Please read the reducing cells page. The manipulation isn't finished until you also follow that page.*
 

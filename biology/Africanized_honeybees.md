@@ -20,7 +20,7 @@ A rule of thumb: if your state department indicates that AHBs have the potential
 
 The map below shows the theoretical potential range for AHBs. Refer to your local beekeeping club/agricultural department for the latest information.
 
-![Potential range of AHBs](/wiki/images/ahb_map.png)
+![Potential range of AHBs](/images/ahb_map.png)
 
 ### AHB Behaviour
 - Africanised bees are far more aggressive ("defensive"). They send worker bees more quickly to disturbances and will pursue a threat for over 500 meters.

@@ -65,9 +65,9 @@ Per the Apivar™ label, honey supers can be placed back on the hive 14 days aft
 
 *Note from the author: This was answered in an attached document. We've attached them below.*
 
-[**PDF:** Apivar™ residues in honey after removal of Apivar™](/wiki/documents/Apivar™_residues.pdf)
+[**PDF:** Apivar™ residues in honey after removal of Apivar™](/documents/Apivar™_residues.pdf)
 
-[**PDF:** Apivar™ motabolites in honey](/wiki/documents/Apivar™_residues_2.pdf)
+[**PDF:** Apivar™ motabolites in honey](/documents/Apivar™_residues_2.pdf)
 
 ### Has there been any concerning findings of the effects in clinical trials of the chemicals in the above question?
 

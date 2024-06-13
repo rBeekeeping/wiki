@@ -7,7 +7,7 @@ There's an interesting part of bees that we haven't covered in the swarming sect
 
 The Demaree method is similar to most other types of splits, in that we remove *almost* all the brood from the main colony. The only difference is that we do this inside the same hive as the rest of the colony. This manipulation is slightly more difficult to understand than others, so we will explain it after the main method below. 
 
-If you want to understand why this works, read the [Swarm Control](/wiki/queen_events/swarming/swarm_control) page.
+If you want to understand why this works, read the [Swarm Control](/queen_events/swarming/swarm_control) page.
 
 # Required Equipment
 
@@ -21,7 +21,7 @@ If you want to understand why this works, read the [Swarm Control](/wiki/queen_e
 
 1. Place the new brood box next to the hive
 1. Remove 4 frames from the new brood box, set them aside
-1. Open the hive and find the queen (or perform a [queen sieve manipulation](/wiki/queen_events/swarming/swarm_control#but-i-cant-find-her))
+1. Open the hive and find the queen (or perform a [queen sieve manipulation](/queen_events/swarming/swarm_control#but-i-cant-find-her))
 1. Place the queen, a frame of capped brood, and a frame of stores (so long as the top half will still have plenty) in the center of the new brood box.
     * **IMPORTANT: Go through BOTH brood boxes and destroy ALL queen cells. You cannot miss a single one.**
 1. Use the frames you set aside in step 2 to completely fill both brood boxes.

@@ -4,9 +4,9 @@ There are numerous pests that can cause problems with colonies, especially when 
 
 * Lesser Wax Moth
 * Greater Wax Moth
-* [Small Hive Beetles](/wiki/pests/shb)
-* [Mice](/wiki/pests/mice)
-* [Wasps](/wiki/pests/wasps)
+* [Small Hive Beetles](/pests/shb)
+* [Mice](/pests/mice)
+* [Wasps](/pests/wasps)
 * Asian Hornet (Vespa velutina)
 
 > TODO: make pages for each of these

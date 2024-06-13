@@ -8,7 +8,7 @@
 
 * [Are these queen cells?](#are-these-queen-cells)
 * [How do I know if these are swarm/supersedure/emergency cells?]()
-* [What should I do if I find swarm cells?](/wiki/queen_events/spotting)
+* [What should I do if I find swarm cells?](/queen_events/spotting)
 * [Should I remove swarm cells?](#should-i-remove-swarm-cells)
 * [Will deleting queen cells prevent a swarm?](#will-deleting-queen-cells-prevent-a-swarm)
 
@@ -21,13 +21,13 @@
 
 If the cells are positioned horizontally, no. If the cell is positioned vertically, yes. Here's an example a good looking queen cell.
 
-![Image showing queen cells on the bottom of a frame](/wiki/images/queencells.jpg)
+![Image showing queen cells on the bottom of a frame](/images/queencells.jpg)
 
-Determining whether these are swarm cells, supersedure cells, or emergency cells is the next step. [You can head over to the Spotting Queen Events page for this.](/wiki/queen_events/spotting)
+Determining whether these are swarm cells, supersedure cells, or emergency cells is the next step. [You can head over to the Spotting Queen Events page for this.](/queen_events/spotting)
 
 ## Is this a swarm/supersedure/emergency cell?
 
-Good question. Maybe have a quick visit to the above question just to be sure it's a queen cell - if it is, head to our [Spotting Queen Events page for more information.](/wiki/queen_events/spotting)
+Good question. Maybe have a quick visit to the above question just to be sure it's a queen cell - if it is, head to our [Spotting Queen Events page for more information.](/queen_events/spotting)
 
 ## Should I remove swarm cells?
 

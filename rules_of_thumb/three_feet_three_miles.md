@@ -60,7 +60,7 @@ Also, if you have a swarm trap out, and leave it there full of bees for a while,
 
 ## Laying Workers
 
-when shaking out [laying workers](/wiki/queen_events/drone_laying_workers), there's two choices to deal with them. One of them relies on flying bees being able to navigate back to the hive, leaving the nurses to fly around aimlessly looking for a new home. 
+when shaking out [laying workers](/queen_events/drone_laying_workers), there's two choices to deal with them. One of them relies on flying bees being able to navigate back to the hive, leaving the nurses to fly around aimlessly looking for a new home. 
 
 ---
 

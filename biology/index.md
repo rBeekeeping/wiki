@@ -2,7 +2,7 @@
 
 ## Lifecycle
 
-![image showing timeline of egg development](/wiki/images/egg-timeline.png)
+![image showing timeline of egg development](/images/egg-timeline.png)
 
 | Stage | Drone (Male) | Worker (Female) | Queen (Female) |
 | ----- | ------------ | --------------- | -------------- |
@@ -13,7 +13,7 @@
 
 Table: *Caste lifecycles. Drones take ~24 days from egg laying to emergence, Queens ~16 days, and workers ~21 days.*
 
-![Worker bee lifecycle](/wiki/images/WorkerBee_lifecycle.png)
+![Worker bee lifecycle](/images/WorkerBee_lifecycle.png)
 
 >TODO: Cover reproduction (esp. how the colony makes new queens)
 

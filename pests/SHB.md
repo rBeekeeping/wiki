@@ -1,11 +1,11 @@
 # Small hive beetles
 
 ## The Small Hive Beetle (Aethina tumida)
-![image showing a small hive beetle](/wiki/images/small_hive_beetle_adult.jpg)
+![image showing a small hive beetle](/images/small_hive_beetle_adult.jpg)
 
 Small hive beetles (Aethina tumida) are a serious pest of honey bee colonies, capable of causing significant damage in a short period of time. Native to sub-Saharan Africa, they have now spread to many parts of the world, including the all of the United States except Alaska; Canada; Australia; Philippines; and Italy. Small hive beetles eat everything (pollen, brood, honey, dead adult bees and combs) in the colony, causing honey to ferment in the process. Fermented honey usually runs out of the comb, creating a mess within the hives or honey house. Although weak colonies are more prone to SHB invasion, strong colonies can also be overwhelmed.
 
-![Distribution map of small hive beetle habitat](/wiki/images/small_hive_beetle_distribution_map.png)
+![Distribution map of small hive beetle habitat](/images/small_hive_beetle_distribution_map.png)
 
 
 SHB are small, dark-colored beetles, measuring approximately 5-7 mm in length. They possess a compact, oval-shaped body with a pair of clubbed antennae and a distinct notch on the posterior margin of their elytra. SHBs are capable of flying long distances, which aids in the dispersal and invasion of new honey bee colonies. 
@@ -13,7 +13,7 @@ SHB are small, dark-colored beetles, measuring approximately 5-7 mm in length. T
 ## Lifecycle of the Small Hive Beetle
 The SHB undergoes a complex lifecycle consisting of four distinct stages: egg, larva, pupa, and adult. Female beetles lay their eggs in clusters, typically in dark and concealed areas within the beehive, such as the edges of frames or in unprotected comb. The eggs hatch within 24 to 48 hours, and the emerging larvae begin to feed on honey, pollen, and bee brood.
 
-![image of a small hive beetle larvae](/wiki/images/small_hive_beetle_larvae.jpg)
+![image of a small hive beetle larvae](/images/small_hive_beetle_larvae.jpg)
 
 The larval stage is the most destructive phase of the SHB lifecycle. As they tunnel through the comb, they deposit a yeast (Kodamaea ohmeri) that causes the honey and pollen to ferment and become slimy. This slime can cause the comb to collapse, and the fermentation process renders the honey unsuitable for bees or human consumption.
 
@@ -22,7 +22,7 @@ After approximately a week of feeding, the larvae leave the hive and burrow into
 ## Damage to Bee Hives
 The SHB can cause extensive damage to honey bee colonies. The larval stage is primarily responsible for the destruction, as they feed on and damage the comb, honey, and pollen within the hive. The fermentation caused by the yeast they deposit can also lead to the collapse of the comb and the loss of honey stores.
 
-![image of a small hive beetle damage](/wiki/images/small_hive_beetle_slime_and_foam.jpg)
+![image of a small hive beetle damage](/images/small_hive_beetle_slime_and_foam.jpg)
 
 In addition to the physical damage, the SHB can also impact the overall health and well-being of the colony. The presence of the beetles can stress the bees, leading to a decrease in honey production and an increase in the likelihood of disease and pest infestations.
 
@@ -36,7 +36,7 @@ Beekeepers should be vigilant in monitoring their colonies for signs of SHB infe
 
 ## Is this a small hive beetle larvae or a wax moth larvae?
 
-![image of a small hive beetle larvae with a wax moth larvae](/wiki/images/shb_larvae_wax_moth_larvae.JPG)
+![image of a small hive beetle larvae with a wax moth larvae](/images/shb_larvae_wax_moth_larvae.JPG)
 
 SHB larvae (main image) have three pairs of legs near the head and two large spines projecting from their rear and spines along the length of their bodies. Wax moth larvae (inset) have abdominal legs like a caterpillar (see arrow) and have no body spines.
 

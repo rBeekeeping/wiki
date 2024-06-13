@@ -8,7 +8,7 @@ Go to their website - every single video is some hippy 20-something influencer a
 
 There's a very good chance that you've been linked to this page after saying something along the lines of "I want to keep bees, should I get a flow hive?", and if that's the case then our advice to anyone who wants to get a flow hive thinking that it will make beekeeping more easy: go on a practical course. It will cost you not a lot of money and you'll get hands on experience with the bees, and will help you understand why keeping bees isn't just as simple as putting bees in a box and stealing honey.
 
-[Our documentation on the best way to start beekeeping can be found here.](/wiki/faqs/non_beekeeper/i_want_bees) There you'll find a bounty of information, and our guides will help you understand what will be needed from you as a beekeeper regardless of what hive design you choose. 
+[Our documentation on the best way to start beekeeping can be found here.](/faqs/non_beekeeper/i_want_bees) There you'll find a bounty of information, and our guides will help you understand what will be needed from you as a beekeeper regardless of what hive design you choose. 
 
 ## The purported "job" of the flow hive
 
@@ -20,11 +20,11 @@ See, this is the problem. A flow hive costs *just* a bit less than buying a hive
 
 ## Why it falls down
 
-A colony of bees *need* inspecting regularly to ensure that they aren't harboring diseases, and that they are healthy. Two diseases that are particularly problematic are [AFB](/wiki/diseases/afb) and [EFB](/wiki/diseases/efb). These two diseases are often notifiable diseases, which means that beekeepers are legally obligated, under the thread of huge fines or even imprisonment, to notify the government agencies for beekeeping if they find occurences of these diseases in their hives. 
+A colony of bees *need* inspecting regularly to ensure that they aren't harboring diseases, and that they are healthy. Two diseases that are particularly problematic are [AFB](/diseases/afb) and [EFB](/diseases/efb). These two diseases are often notifiable diseases, which means that beekeepers are legally obligated, under the thread of huge fines or even imprisonment, to notify the government agencies for beekeeping if they find occurences of these diseases in their hives. 
 
 The flow hive super weights 8 kilos right out of the gate. Once it's full, we're looking at upwards of 30 kilos. That's an unreasonable weight for anyone with back problems, or simply doesn't have the muscle mass to lift it. As such, it actively discourages inspections of the colonies and causes slow deaths of the colonies housed inside them, and ultimately to the spread of disease and parasites.
 
-More information on those diseases and parasites can be found over at [our Varroa section](/wiki/varroa/), and [our Diseases section](/wiki/diseases/)
+More information on those diseases and parasites can be found over at [our Varroa section](/varroa/), and [our Diseases section](/diseases/)
 
 ## When a flow hive might actually be a good idea
 

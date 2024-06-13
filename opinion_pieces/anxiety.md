@@ -30,7 +30,7 @@ If you find yourself getting anxious, it's likely because you don't have the bee
 
 ## Get a mentor
 
-A mentors job is to fill the reason gap, at least temporarily. A mentor is a temporary crutch for you to lean on whilst you get on your feet. You can use them for advice, for [rubber-ducking ](https://en.wikipedia.org/wiki/Rubber_duck_debugging), or for second opinions. The best way to use a mentor is to come up with a plan, and run the plan past your mentor. They (should) will give you honest feedback, and send you searching off into other reading to find better ideas or sign it off and say "give it a go!". 
+A mentors job is to fill the reason gap, at least temporarily. A mentor is a temporary crutch for you to lean on whilst you get on your feet. You can use them for advice, for [rubber-ducking ](https://en.wikipedia.org/Rubber_duck_debugging), or for second opinions. The best way to use a mentor is to come up with a plan, and run the plan past your mentor. They (should) will give you honest feedback, and send you searching off into other reading to find better ideas or sign it off and say "give it a go!". 
 
 Having someone experienced stand behind you confidently saying "See, you've got this!" is immensely supportive through the first few years, and also extremely helpful for navigating the very vague and ambiguous problems of beekeeping. 
 

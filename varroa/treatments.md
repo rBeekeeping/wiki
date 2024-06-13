@@ -4,7 +4,7 @@
 * [OA (Oxalic Acid) Dribble](#oa-dribble)
 * [OA (Oxalic Acid) Vaporisation](#oxalic-acid-vaporisation)
 * [Apivar](#apivar)
-    * [A note on apivar, directly from vetopharma](/wiki/varroa/apivar_misuse)
+    * [A note on apivar, directly from vetopharma](/varroa/apivar_misuse)
 * [Apiguard / Hopguard](#apiguard-/-hopguard)
 * [Formic Pro / MAQs / Other formic products](#Formic-Pro-/-MAQs-/-Other-formic-products)
 * [Drone comb culling](#drone-brood-culling)
@@ -26,11 +26,11 @@ Please pay particular attention to Oxalic Acid Vapes in this regard. OAV regimen
 
 ## OA Dribble
 
-![Liquid version](/wiki/images/5976c-acid-2370-1.webp)
+![Liquid version](/images/5976c-acid-2370-1.webp)
 
 ## Oxalic Acid Vaporisation
 
-![Vaprizor from Amazon](/wiki/images/51OjeZUpt0L._AC_UF894,1000_QL80_.jpg)
+![Vaprizor from Amazon](/images/51OjeZUpt0L._AC_UF894,1000_QL80_.jpg)
 
 Oxalic Acid (OA) Vaporisation (OAV) is usually performed with some kind of electric wand, or gas torch. The OA is dosed for the hive, placed into the equipment and the hive is essentially fumigated with acid. The way this works isn't properly understood, but it's thought that the acid gets into the varroa via their feet, and acidifies their "blood" causing certain necessary functions to stop working, and they die. The bees, being much larger, can tolerate the acidification much better and it doesn't seem to bother them at all once the OA wand is removed from the hive. 
 
@@ -80,7 +80,7 @@ An example full cycle treatment is as follows:
 
 ## Drone Brood Culling
 
-![Drone brood frame](/wiki/images/droneFrame.jpg)
+![Drone brood frame](/images/droneFrame.jpg)
 
 Drone brood culling is one of the best chemical free treatments you can do in a hive. Some of the reasons why people don't use it is because it takes more work than other treatments, it can become a breeding ground for mites, and it will not work if a mite bomb goes off. There are pro's and cons to every treatment, but for people who don't want to use chemicals on their bee's, this is the perfect fit.
 

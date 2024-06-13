@@ -25,7 +25,7 @@ Queen clipping is the act of removing a small portion of a queen's wing to preve
 1. Clip off 50% of **one** of the larger wings
 1. Release her back into the colony
 
-![Image of a queen marking cage](/wiki/images/marking_cage.webp)
+![Image of a queen marking cage](/images/marking_cage.webp)
 
 If you are comfortable handling queens by hand, you can do it whilst handling her, but you must be *extremely* careful not to damage her legs. If you damage her legs, the colony *will* see her as maimed and supersede her.
 

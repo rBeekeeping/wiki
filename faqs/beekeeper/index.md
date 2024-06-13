@@ -8,20 +8,20 @@
 * [Is this Swarming?](#is-this-swarming)
 
 ## Other answers around the wiki:
-* [How do I know if my colony is queenless?](/wiki/queen_events/determining_queenlessness)
-* [Should I get a flow hive?](/wiki/faqs/beekeeper/to_flow_or_not_to_flow)
-* [What's better, a nuc or a package?](/wiki/faqs/beekeeper/nucs_vs_packages)
-* [Why are my bees dead](/wiki/faqs/beekeeper/why_are_my_bees_dead)
-* [Is this normal comb? It looks weird or is in the wrong place.](/wiki/faqs/beekeeper/comb)
-* [Comb on plastic foundation](/wiki/faqs/beekeeper/plastic_foundation)
-* [Is this AFB / EFB / Chalkbrood?](/wiki/diseases/)
-* [Why are my bees aggressive?](/wiki/faqs/beekeeper/hot_hives)
-* [Is my honey dry enough?](/wiki/faqs/beekeeper/honey_moisture)
-* [How do I introduce a new mated queen?](/wiki/queen_events/queen_introduction)
-* [How do I make a split?](/wiki/queen_events/swarming/)
-* [How do I combine hives together?](/wiki/guides/combining_hives)
-* [What's the best way to catch a swarm?](/wiki/queen_events/swarming/bait_hives)
-* [I found queen cells, what do I do?](/wiki/queen_events/faq)
+* [How do I know if my colony is queenless?](/queen_events/determining_queenlessness)
+* [Should I get a flow hive?](/faqs/beekeeper/to_flow_or_not_to_flow)
+* [What's better, a nuc or a package?](/faqs/beekeeper/nucs_vs_packages)
+* [Why are my bees dead](/faqs/beekeeper/why_are_my_bees_dead)
+* [Is this normal comb? It looks weird or is in the wrong place.](/faqs/beekeeper/comb)
+* [Comb on plastic foundation](/faqs/beekeeper/plastic_foundation)
+* [Is this AFB / EFB / Chalkbrood?](/diseases/)
+* [Why are my bees aggressive?](/faqs/beekeeper/hot_hives)
+* [Is my honey dry enough?](/faqs/beekeeper/honey_moisture)
+* [How do I introduce a new mated queen?](/queen_events/queen_introduction)
+* [How do I make a split?](/queen_events/swarming/)
+* [How do I combine hives together?](/guides/combining_hives)
+* [What's the best way to catch a swarm?](/queen_events/swarming/bait_hives)
+* [I found queen cells, what do I do?](/queen_events/faq)
 
 ---
 
@@ -68,9 +68,9 @@ In other words - if a hive is going to swarm, then yes they might beard.  But th
 
 ### How do I make a queen?
 
-You usually don't. If your queen has left, and you don't know what happens next, head over to [our Biology section to learn about colony reproduction.](/wiki/biology/)
+You usually don't. If your queen has left, and you don't know what happens next, head over to [our Biology section to learn about colony reproduction.](/biology/)
 
-If you have a colony that is definitely queenless, go take a look at our [Queenless?](/wiki/queen_events/determining_queenlessness) page.
+If you have a colony that is definitely queenless, go take a look at our [Queenless?](/queen_events/determining_queenlessness) page.
 
 And if you want to start breeding queens to introduce to other colonies, you'll have to wait. We haven't written that page yet. Our queen breeder community member is a busy guy! 
 

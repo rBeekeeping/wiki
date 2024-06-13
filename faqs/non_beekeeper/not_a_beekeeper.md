@@ -39,9 +39,9 @@ If they are in your house, [you need to read this question.](#should-i-get-these
 
 These infographics might help you figure out if your "bees" are Bees.
 
-![Infographic showing types of bees](/wiki/images/bee_types.jpeg)
+![Infographic showing types of bees](/images/bee_types.jpeg)
 
-![Infographic showing not bees](/wiki/images/not_a_bee.jpeg)
+![Infographic showing not bees](/images/not_a_bee.jpeg)
 
 ---
 # Should I get these bees removed?
@@ -55,7 +55,7 @@ Are they in your house? If no, the answer is no ... leave them alone unless they
 
 If you can see a big black ball of bees dangling from a tree, it is most definitely a swarm. A swarm of bees will look like the below. When they are in flight, there will be an enormous cloud of bees in the air. Everywhere you look, you will be able to see a bee.
 
-![A swarm of bees](/wiki/images/swarm_1.jpg)
+![A swarm of bees](/images/swarm_1.jpg)
 
 Also, see the next question...
 
@@ -94,12 +94,12 @@ We understand your empathy and sympathy for the dying insect, but stop trying to
 
 Stop trying to help individual bees. Just leave them to it.
 
-If you *really* want to help, read our page on [helping native pollinators](/wiki/faqs/non_beekeeper/helping_native_pollinators)
+If you *really* want to help, read our page on [helping native pollinators](/faqs/non_beekeeper/helping_native_pollinators)
 
 ---
 # What happened to my honey?
 
-![Image showing 3 jars of granulated honey](/wiki/images/granulation.jpg)
+![Image showing 3 jars of granulated honey](/images/granulation.jpg)
 
 If it has gone hard, or there is a layer of lighter colored honey at the bottom, and liquid on top - it has granulated. 
 
@@ -112,7 +112,7 @@ Granulation can, in some cases, lead to fermentation. Where solution falls out o
 ---
 # What's this black / white stuff in my honey?
 
-![Image showing foam on top of honey](/wiki/images/honey_foam.webp)
+![Image showing foam on top of honey](/images/honey_foam.webp)
 
 Black? Probably pollen.. probably. It might be parts of bees or bits of propolis. All of which are edible. You can either strain it through a sieve or just worry less and eat it... it's very unlikely to do you any harm. See [Is my honey mouldy?](#is-my-honey-mouldy) for further information on why.
 

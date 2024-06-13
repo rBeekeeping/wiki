@@ -6,7 +6,7 @@
 
 <Intro text>
 
-If you want to understand why this works, read the [Swarm Control](/wiki/queen_events/swarming/swarm_control) page.
+If you want to understand why this works, read the [Swarm Control](/queen_events/swarming/swarm_control) page.
 
 # Required Equipment
 
@@ -19,7 +19,7 @@ If you want to understand why this works, read the [Swarm Control](/wiki/queen_e
 
 1. the
 1. method
-1. [Reduce queen cells](/wiki/queen_events/swarming/manipulations/queen_cells)
+1. [Reduce queen cells](/queen_events/swarming/manipulations/queen_cells)
 
 *Note: Please read the reducing cells page. The manipulation isn't finished until you also follow that page.*
 

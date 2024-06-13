@@ -18,7 +18,7 @@ The Beekeeper’s Handbook by Diana Sammataro and Alphonse Avitabile defines cas
 
 Now that we've got the definition down and know that drones aren't a caste, we're going to include them here for convenice sake.
 
-![image of castes](/wiki/images/castes.jpg)
+![image of castes](/images/castes.jpg)
 ### a. Drone  b. Queen  c. Worker
 
 ### The Queen
@@ -32,7 +32,7 @@ As with all bees, worker eggs hatch into larvae. They are unable to feed themsel
 #### Temporal Polyethism
 The age related division of labor that occurs within honey bee colonies is called temporal polyethism. At different ages, worker bees are better suited to perform different tasks. Each worker performs tasks for the colony in a predictable progression throughout her lifetime. Workers don't specialize in a single task.
 
-![image of temporal polyethism](/wiki/images/temporal_polyethism.jpg)
+![image of temporal polyethism](/images/temporal_polyethism.jpg)
 
 Young workers genrally perform jobs in the area of the hive where the brood is found. Young workers' jobs include cleaning brood cells, feeding and tending the brood, and tending to the queen. As they age, the workers take on duties in the outer regions of the hive. These jobs include building comb, receiving nectar and pollen, storing nectar and pollen, processing honey and ventilating the hive. The oldest bees perform tasks outside of the hive, such as guarding the hive, removing dead bees from the hive, and foraging.
 
@@ -42,8 +42,8 @@ Worker bees do not have fully functioning reproductive organs like the queen doe
 Drones are male honey bees. There is noticable sexual dimorphism in honey bees: the drones are much larger than the workers and have very large eyes. Their abdomens are thick and blunt at the end rather than pointy like the abdomens of the females. A drone’s sole purpose is to mate with a queen not from its hive. Drones will leave the hive each day in search of a queen to mate with. They will travel up to 3 miles to "drone congregation sites": a location that drones from multiple colonies will come together in search of a queen. If the drones mating attempt is unsuccessful, they return to their hives to return the next day. If a drone successfully mates with a queen, they die because the penis and associated abdominal tissues are torn from the drone's body following sexual intercourse. Drones take 24 days to grow from egg to adult and can live for 3 months. In the autumn, worker bees prevent drones from reentering the hive since they are no longer needed, effectively starving them to death.
 
 <div>
-    <img src="/wiki/images/drone_vs_worker_1.jpg" style="width: 50%; margin: auto; display: inline;" />
+    <img src="/images/drone_vs_worker_1.jpg" style="width: 50%; margin: auto; display: inline;" />
 </div>
 
-![Image showing drone stood next to worker](/wiki/images/drone_vs_worker_2.jpg)
+![Image showing drone stood next to worker](/images/drone_vs_worker_2.jpg)
 *Image: Drones stood next to workers for size comparison. Thanks for the pose, Dave*.

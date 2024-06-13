@@ -5,8 +5,8 @@
 * [How they spread](#how-varroa-spreads)
 * [Mite bombs](#Mite-bombs)
 * [Pre-winter damage, leading to winter collapse](#pre-winter-damage)
-* [Monitoring varroa infestation](/wiki/varroa/monitoring)
-* [Available treatments](/wiki/varroa/treatments)
+* [Monitoring varroa infestation](/varroa/monitoring)
+* [Available treatments](/varroa/treatments)
 
 # Introduction
 
@@ -23,10 +23,10 @@ Treatments are available for Varroa. Think of it like treating a cat for fleas -
 
 The below pictures will give you an idea of the size of a varroa mite. 
 
-![Image of mite on the back of drone](/wiki/images/mite_on_drone.jpg)
+![Image of mite on the back of drone](/images/mite_on_drone.jpg)
 *Image: Mite on the back of drone. Drone was excised from the comb for the purposes of the photo.*
 
-![Image of mite on thumb for scale](/wiki/images/mite_on_thumb.jpg)
+![Image of mite on thumb for scale](/images/mite_on_thumb.jpg)
 *Image: Mite on thumb nail, so that you can see just how small they are. This is an adult female varroa mite.*
 
 ---
@@ -35,13 +35,13 @@ The below pictures will give you an idea of the size of a varroa mite.
 
 It's worth noting at this stage what "phoretic" means. Phoretic mites are mites that are emerged from cappings and running around the hives. They are more often than not being carried around on a bee, not by the bee's choice. 
 
-During the phoretic stage of a mite's life, they are *exceptionally* vulnerable to treatments. [Read the Treatments section for more information on this.](/wiki/varroa/treatments)
+During the phoretic stage of a mite's life, they are *exceptionally* vulnerable to treatments. [Read the Treatments section for more information on this.](/varroa/treatments)
 
 ---
 
 # Reproductive Cycle
 
-![Varroa lifecycle diagram](/wiki/images/varroa_cycle.png)
+![Varroa lifecycle diagram](/images/varroa_cycle.png)
 
 After emergence from a cell, varroa mate (depending on their sex) take 5-7 days to become sexually mature. Once they do, they find a nice looking cell that is *just* ready to be capped, and drop off of a bee into the cell. 
 

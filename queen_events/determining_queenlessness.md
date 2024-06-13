@@ -12,10 +12,10 @@
 
 # Introduction
 
-You likely landed here because you suspect you are queenless. Maybe you've attempted to make a replacement queen (todo link) and are unsure whether it worked. Maybe things just don't look right. Or as a new beekeeper, maybe you are just under the constant [anxiety](/wiki/opinion_pieces/anxiety) that you surely killed the queen by accident.
+You likely landed here because you suspect you are queenless. Maybe you've attempted to make a replacement queen (todo link) and are unsure whether it worked. Maybe things just don't look right. Or as a new beekeeper, maybe you are just under the constant [anxiety](/opinion_pieces/anxiety) that you surely killed the queen by accident.
 > TODO: link to how to make a queen
 
-If you are here looking for signs of queenrightness, there's two edge cases here that you should be aware of: [Drone Laying Workers (DLWs)](/wiki/queen_events/drone_laying_workers), and [Drone Laying Queens (DLQs).](/wiki/queen_events/drone_laying_queen) In both of these cases, it can seem as though the colony *thinks* they are queenright due to the presence of brood pheromones. It is up to you to determine if this is the case, so it's worth knowing about them.
+If you are here looking for signs of queenrightness, there's two edge cases here that you should be aware of: [Drone Laying Workers (DLWs)](/queen_events/drone_laying_workers), and [Drone Laying Queens (DLQs).](/queen_events/drone_laying_queen) In both of these cases, it can seem as though the colony *thinks* they are queenright due to the presence of brood pheromones. It is up to you to determine if this is the case, so it's worth knowing about them.
 
 ---
 
@@ -23,7 +23,7 @@ If you are here looking for signs of queenrightness, there's two edge cases here
 
 If you have inspected your hive and you saw single eggs (occasionally two) laid in cells then you are very likely queenright. Tip the brood box(es) up and look at the underside. If you do not see queen cells (either capped or open) (todo: photos) then relax. 
 
-![Image showing eggs and larvae in cells](/wiki/images/eggs_and_larvae.jpg)
+![Image showing eggs and larvae in cells](/images/eggs_and_larvae.jpg)
 
 > TODO: photos of emergency vs swarm cells
 

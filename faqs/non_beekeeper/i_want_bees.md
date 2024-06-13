@@ -5,8 +5,8 @@
 ---
 
 Lets get a couple of things straight right out of the gate: 
-1. Firstly, If you think you want to keep bees to "save the bees", please read our [Not Those Bees](/wiki/faqs/non_beekeeper/not_those_bees) page. 
-1. Secondly, bees are livestock; You should read our [Livestock, Not Pets](/wiki/faqs/non_beekeeper/livestock_not_pets) page.
+1. Firstly, If you think you want to keep bees to "save the bees", please read our [Not Those Bees](/faqs/non_beekeeper/not_those_bees) page. 
+1. Secondly, bees are livestock; You should read our [Livestock, Not Pets](/faqs/non_beekeeper/livestock_not_pets) page.
 
 ## Common Questions
 
@@ -36,7 +36,7 @@ Beekeeping has an attrition rate of over 90% in the first 3 years. That is to sa
 
 Let us start by saying this: Beekeeping rewards three things - planning, patience, and pragmatism. If you want to get into beekeeping *this year*, [please see the relevant section here.](#im-in-a-hurry)
 
-![Starting Beekeeping roadmap](/wiki/images/roadmap_year_0_1.jpg)
+![Starting Beekeeping roadmap](/images/roadmap_year_0_1.jpg)
 
 There are many ways to start beekeeping; there are as many, minus a small handful, ways to start beekeeping badly. The roadmap above outlines the *ideal* way to start beekeeping. It gives you plenty of time to plan and prepare so that your bees (and you) stand the best chance at success.
 
@@ -83,7 +83,7 @@ We hear this all too often. People buy bees, buy a hive, and then come to the su
 With that said, the problem with this situation is that the theory and practical courses have probably already started (or even finished) - if they haven't that's great, and you should attend them... but if they have, it is strongly advisable to sign up to the beginner courses with your local assocition in your second year regardless. The course will give you much more than just bee clevers... it will give you people to call on.
 
 The recommendation in this case is to follow the guide *as best as you can* and fit everything in as well as possible. That is: 
-1. Read as many books and watch as many youtube videos as possible. We have a recommend list of books and youtube channels in our [Education](/wiki/educational_material) section.
+1. Read as many books and watch as many youtube videos as possible. We have a recommend list of books and youtube channels in our [Education](/educational_material) section.
 2. Join the association and attend their meetings as soon as you can.
 3. Find a mentor who can come visit you and your bees and give you a hand or guidance
 4. Sign up to the beginner courses for your year 2 (your first spring) as soon as they become available.
@@ -92,7 +92,7 @@ The recommendation in this case is to follow the guide *as best as you can* and 
 
 ## Should I use Langstroth, or British National, or Warre, or top bar, or a Flow Hive?
 
-If you are considering a flow hive, read our [Flow Or Not To Flow](/wiki/faqs/beekeeper/to_flow_or_not_to_flow) page.
+If you are considering a flow hive, read our [Flow Or Not To Flow](/faqs/beekeeper/to_flow_or_not_to_flow) page.
 
 Otheriwse, use whatever the people around you are using - It's as simple as that.
 
@@ -124,11 +124,11 @@ But, if you do decide it's for you - we support anyone who makes an effort to su
 
 ## What books should I read?
 
-See our [Education](/wiki/educational_material/index) page.
+See our [Education](/educational_material/index) page.
 
 ---
 
 ## What equipmemnt should I buy?
 
-See the [Equipment section](/wiki/guides/equipment)
+See the [Equipment section](/guides/equipment)
 

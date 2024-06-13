@@ -18,13 +18,13 @@ Worker abdomens are shorter than queens and so cannot reach the bottom of the ce
 
 How do you tell if it's a rogue worker, or a new queen learning how to lay eggs? Look at the egg number per cell and their positions- new queens lay less eggs per cell, and are relatively orderly; when multiple eggs are laid in a single comb, workers will place the excess eggs into an empty cell. After 1-2 weeks, these larvae will be capped into worker brood, and only single eggs will be observed in comb. By contrast, more drones and drone comb will be present in laying worker colonies, with more chaos in the cells as the colony is "hopelessly queenless".
 
-![image showing difference between queen laid eggs and a laying worker](/wiki/images/dlw_vs_new_queen.jpg)
+![image showing difference between queen laid eggs and a laying worker](/images/dlw_vs_new_queen.jpg)
 
 Queens will sometimes lay 2 eggs in a cell, especially when they are newly mated. Occasionally, though rarely, you might even see three eggs in a cell. If you start seeing cells *regularly* with 3 or more eggs, you are almost certainly in a DLW situation.
 
 Sometimes the cells inside DLW colonies will look like bowls of rice.
 
-![image showing the rice bowl of worker laid eggs](/wiki/images/laying_worker_rice_bowl.jpeg)
+![image showing the rice bowl of worker laid eggs](/images/laying_worker_rice_bowl.jpeg)
 *Image credits u/Safe-Wolverine-4642*
 
 

@@ -4,7 +4,7 @@ There are two types of wax moth. Lesser wax moth, and Greater wax moth.
 
 Both of these can be seen as natures "clean up crew". When there is unattended comb, wax moth will crawl in, and burrow into it consuming all of the available nutrition inside the comb. Wax moth do a fab job of clearing out a disused hive but are very much a nuisance to beekeepers. Any unattended boxes of brood frames will be utterly destroyed, and taking along some of the woodenware with it too - they leave little divets in the wood where they have made a cocoon to pupate inside of.
 
-![Image showing wax moth damage to inside of woodenware](/wiki/images/wax_moth_damage.jpeg)
+![Image showing wax moth damage to inside of woodenware](/images/wax_moth_damage.jpeg)
 *Image: Small divets in woodenware caused by wax moth cocoons.*
 
 ## Controls for Wax Moth
@@ -28,6 +28,6 @@ There is a product called [Paramoth](https://www.amazon.com/paramoth/s?k=paramot
 
 ### Is this a small hive beetle larvae or a wax moth larvae?
 
-![image of a small hive beetle larvae with a wax moth larvae](/wiki/images/shb_larvae_wax_moth_larvae.JPG)
+![image of a small hive beetle larvae with a wax moth larvae](/images/shb_larvae_wax_moth_larvae.JPG)
 
 SHB larvae (main image) have three pairs of legs near the head and two large spines projecting from their rear and spines along the length of their bodies. Wax moth larvae (inset) have abdominal legs like a caterpillar (see arrow) and have no body spines.

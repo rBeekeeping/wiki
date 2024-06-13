@@ -6,7 +6,7 @@ Below is a flow chart or decision tree that may be helpful for diagnostic purpos
 > **Always remember this adage: "When you hear hoofbeats, think horses. Not zebras."**
 
 ## The Chart
-![Image of a flow chart for mortality diagnosis](https://rbeekeeping.github.io/wiki/images/WhyBeesDie.jpg)
+![Image of a flow chart for mortality diagnosis](https://rbeekeeping.github.io/images/WhyBeesDie.jpg)
 ## Process Documents
 The orange boxes on the flow chart above are discrete procedures that you can use to try to make a differential diagnosis between modes of colony failure. Here are links to the pages dedicated to those procedures.
 ### Not Seasonal

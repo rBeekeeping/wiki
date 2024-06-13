@@ -49,7 +49,7 @@ Swarm cells are regular queen cells, just for the specific purpose of swarming. 
 
 Yet again cull swarm cells down to just 2-3 close together, and split the hive.  There are many variations on how to do so; see ***.  Note that to satisfy the swarm instinct, the original queen has to be moved into the new split and the queen cells left in the parent hive, not the other way around.  
 
-![image of swarm cells](/wiki/images/queen_cells_swarm.jpg)
+![image of swarm cells](/images/queen_cells_swarm.jpg)
 Swarm cells at the bottom of a frame
 > TODO
 > add photos

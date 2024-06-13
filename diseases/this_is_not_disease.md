@@ -10,13 +10,13 @@ This is not AFB, EFB, or Chalkbrood. It's bee bread. It's pollen that's been pac
 
 It's edible (aside from the pesticides), and importantly, it's not a disease. The bees use this as a protein source to feed their young. [You can actually buy tools to "sample" the bee bread.](https://www.thorne.co.uk/packaging-hive-products/pollen-royal-jelly-propolis/pollen-picker.html) If you've never tasted it, why don't you give it a go... it's not bad. 
 
-![Image showing bee bread packed in cells](/wiki/images/bee_bread_1.jpg)
+![Image showing bee bread packed in cells](/images/bee_bread_1.jpg)
 *Image: This is pollen.*
 
-![Image showing bee bread packed into cells](/wiki/images/bee_bread_2.jpg)
+![Image showing bee bread packed into cells](/images/bee_bread_2.jpg)
 *Image: This is also pollen.*
 
-![Image showing bee bread packed into cells](/wiki/images/bee_bread_3.jpg)
+![Image showing bee bread packed into cells](/images/bee_bread_3.jpg)
 *Image: This is also pollen.*
 
 > TODO: chilled brood

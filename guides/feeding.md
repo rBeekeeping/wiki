@@ -25,7 +25,7 @@
 
 Feeding a colony can be done at different stages of the year for multiple reasons. Sometimes it's to prevent starvation, other time's it's to cause them to build up more quickly. This is usually based on the seasons, and we'll explain why. 
 
-Measurements for various syrup ratios can be found on the [Weights and Measurements page](/wiki/guides/weights_and_measurents)
+Measurements for various syrup ratios can be found on the [Weights and Measurements page](/guides/weights_and_measurents)
 
 # Temperatures
 
