@@ -4,7 +4,7 @@ You will often hear that bees just will not use plastic foundation. Or that "bee
 Most name brand frames/foundation will work just fine right out of the box. You can often find premium foundation that will be "double" or "triple" coated for an increase in price. These generally work very well. It is often the very inexpensive foundation that bees have trouble with or foundation that has been sitting for years and is no longer fresh/tacky.
 
 #### Poorly coated plastic foundation
-![image of plastic foundation with thin beeswax coating](\wiki\blob\mainimages\foundation_bad_wax.jpg)
+![image of plastic foundation with thin beeswax coating](https://rbeekeeping.com/images/foundation_bad_wax.jpg)
 
 #### Foundation with good was coating
 ![image of plastic foundation with thin beeswax coating](\wiki\images\foundation_good_wax.jpg)
