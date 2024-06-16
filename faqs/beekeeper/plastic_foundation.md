@@ -7,12 +7,12 @@ Most name brand frames/foundation will work just fine right out of the box. You 
 ![image of plastic foundation with thin beeswax coating](https://rbeekeeping.com/images/foundation_bad_wax.jpg)
 
 #### Foundation with good was coating
-![image of plastic foundation with thin beeswax coating](\wiki\images\foundation_good_wax.jpg)
+![image of plastic foundation with thin beeswax coating](https://rbeekeeping.com/images/foundation_good_wax.jpg)
 
 When foundation is old or poorly coated, you etiher get spotty drawn comb, no drawn comb at all or bees will make lobes of wax that hang off of the comb and are not attached to the foundation.
 
 #### Poorly drawn comb on under-waxed plastic foundation
-![image of plastic wonky comb ](\wiki\images\wonky_comb.jpg)
+![image of plastic wonky comb ](https://rbeekeeping.com/images/wonky_comb.jpg)
 
 # I guess I have to throw out my crappy foundation?
 Relax. There is a simple fix. All you really have to do is add wax to the foundation.  You can do so in a number of ways:
