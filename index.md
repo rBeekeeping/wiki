@@ -19,7 +19,7 @@ This wiki contains curated and community reviewed guides and information for bee
 * Guides
     * [Equipment](guides/equipment)
     * [Feeding Colonies](guides/feeding)
-    * [Weights and Measurements](guides/weights_and_measurents)
+    * [Weights, Measurements, and Feed Recipes](guides/weights_and_measurents)
 * [**Queen events**](queen_events/)
     * [Noticing Queen Events (inc. swarming/emergency/supersedure)](queen_events/spotting)
     * [Queenlessness](queen_events/determining_queenlessness)
