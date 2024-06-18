@@ -49,6 +49,7 @@ This wiki contains curated and community reviewed guides and information for bee
         * Chalkbrood
         * ... more to be added
 * **[Bee Biology](biology/)**
+    * [Anatomy](biology/anatomy.md)
     * [Castes](biology/castes)
     * Reproduction
     * Queen Mandibular Pheromones (QMP) & Trophallaxis 
