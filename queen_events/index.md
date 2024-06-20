@@ -7,7 +7,7 @@
     * [Drone Laying Queens](drone_laying_queen)
 
 * [Swarming (The Fundamentals)](swarming)
-    * [Swarm Control Flow Chart](swarnming/manipulations/flow)
+    * [Swarm Control Flow Chart](swarming/manipulations/flow)
     * Swarm Control Manipulations
         * [Pagden Split](swarming/manipulations/pagden)
         * [Nuc Split](swarming/manipulations/nuc)
