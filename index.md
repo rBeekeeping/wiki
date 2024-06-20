@@ -26,6 +26,7 @@ This wiki contains curated and community reviewed guides and information for bee
         * [Drone Laying Workers (DLW)](queen_events/drone_laying_workers)
         * [Drone Laying Queen (DLQ)](queen_events/drone_laying_queen)
     * [Swarming](queen_events/)
+    * [The Swarm Control Flow Chart](queen_events/swarming/manipulations/flow)
 * **[Varroa](varroa/)**
     * [Monitoring / Alcohol washes](varroa/monitoring)
     * [Treatments](varroa/treatments)
