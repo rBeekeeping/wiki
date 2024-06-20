@@ -13,7 +13,7 @@
     * [tl;dr](#summary)
 * [Clipping Queens](clipping)
 *  **Swarm Control Manipulations**
-    * [Swarm Control Flow Chart]()
+    * [Swarm Control Flow Chart](manipulations/flow)
     * [Nuc Split](manipulations/nuc)
     * [Pagden Split](manipulations/pagden)
     * [Demaree Split](manipulations/demaree)
