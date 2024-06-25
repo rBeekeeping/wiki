@@ -40,7 +40,7 @@ This is just old comb, it gets darker and more brittle over time from propolis, 
 ![image of brown comb from a cut-out](/images/comb_brown_cutout.jpg)
 
 ## Natural Comb
-Bees don't naturally live in nifty square boxes with movable frames. Bees will build com in any manner that is convenient for them given the shape of the space availible. Given ample room, however, such as under a bridge arch, bees will often build their hives with straight, evenly spaced combs such as the colony below.
+Bees don't naturally live in nifty square boxes with movable frames. Bees will build comb in any manner that is convenient for them given the shape of the space availible. Given ample room, however, such as under a bridge arch, bees will often build their hives with straight, evenly spaced combs such as the colony below.
 
 ![image of natural bee hive under a bridge arch](/images/natural_comb.jpg)
 
