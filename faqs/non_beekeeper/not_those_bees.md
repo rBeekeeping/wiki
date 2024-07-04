@@ -5,6 +5,7 @@
 ## Rethinking Honeybees: Agricultural Tools, Not Conservation Heroes
 
 We love honey bees. They're fascinating insects that pollinate our crops and gardens, make honey and wax, and provide leisure activities or livelihoods for many of us. Honeybees are not, however, an endangered species - they are farm animals.  Recent findings from Cambridge researchers challenge the conventional wisdom surrounding honeybees and their role in environmental conservation. The narrative that we need to "save the honeybees" might be misleading and detracts from more pressing ecological concerns.
+
 All extant species of honeybees are indigenous to Eurasia.
 
 The first honey bees in the Americas arrived in Jamestown, Virginia in March of 1622. The bees were for intended to produce honey and wax for agircultural commerce. They were shipped by the Council of the Virginia Company in London along with seeds, young fruit trees, pidgeons, rabbits, and dogs aboard the 60 ton ship Discovery with instructions that the colonists ensure "the preservation & encrease whereof".  All of the plants or animals on the Discovery were European species that rapidly spread across North America, displacing or competing with native species.
