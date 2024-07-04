@@ -1,6 +1,6 @@
 # Save the bees!
 
-Just, not those bees...
+### Just not those bees...
 
 ## Rethinking Honeybees: Agricultural Tools, Not Conservation Heroes
 
