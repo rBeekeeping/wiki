@@ -8,7 +8,7 @@ We love honey bees. They're fascinating insects that pollinate our crops and gar
 
 All extant species of honeybees are indigenous to Eurasia.
 
-The first honey bees in the Americas arrived in Jamestown, Virginia in March of 1622. The bees were for intended to produce honey and wax for agircultural commerce. They were shipped by the Council of the Virginia Company in London along with seeds, young fruit trees, pidgeons, rabbits, and dogs aboard the 60 ton ship Discovery with instructions that the colonists ensure "the preservation & encrease whereof".  All of the plants or animals on the Discovery were European species that rapidly spread across North America, displacing or competing with native species.
+The first honey bees in the Americas arrived in Jamestown, Virginia in March of 1622. The bees were for intended to produce honey and wax for agircultural commerce. They were shipped by the Council of the Virginia Company in London along with seeds, young fruit trees, pidgeons, rabbits, and dogs aboard the 60 ton ship *Discovery* with instructions that the colonists ensure "the preservation & encrease whereof".  All of the plants or animals on the Discovery were European species that rapidly spread across North America, displacing or competing with native species.
 
 ## Managed Honeybees vs. Wild Pollinators: A Crucial Distinction
 
