@@ -4,4 +4,4 @@ These rules exist for the same reason as any other general rule: Easy to remembe
 
 * [**Rule of Two**](/rules_of_thumb/rule_of_two) - How to split up brood safely, every time. 
 * [**Three feet, or three miles**](/rules_of_thumb/three_feet_three_miles) - How to move hives without fuss
-* [**Honey is ready if it is capped**](/rules_of_thumb/ready_when_capped) - How to dry out wet honey
+
