@@ -1,4 +1,0 @@
-# June
-
-## Hive cooling / Bearding
-

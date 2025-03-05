@@ -4,6 +4,8 @@
 
 ## On this page:
 * [What do eggs look like?](#what-do-eggs-look-like)
+* [Are these queen cells?](#are-these-queen-cells)
+* [Should I remove queen cells?](#should-i-remove-swarm-cells)
 * [Is this robbing?](#is-this-robbing)
 * [Is this Swarming?](#is-this-swarming)
 
@@ -26,6 +28,21 @@
 ---
 
 ## Answers
+
+## Are these queen cells?
+
+Queen cells are the only cells in a hive oriented vertically. Here's an example a good looking queen cell.
+
+![Image showing queen cells on the bottom of a frame](/images/queen_cells_swarm.jpg)
+
+Determining whether these are swarm cells, supersedure cells, or emergency cells is the next step. [You can head over to the Spotting Queen Events page for this.](/queen_events/spotting)
+
+## Should I remove swarm cells?
+
+When you perform a split, or a manipulation, upon finding queen cells the usual answer is that you want to make the colony think they have swarmed. 
+This usually involves removing swarm cells from one side of the split, at least.
+
+**WARNING:** Only do this when you know with certainty that they have the resources to raise a queen cell in an emergency fashion - in particular, freshly laid eggs.
 
 ### What do eggs look like?
 

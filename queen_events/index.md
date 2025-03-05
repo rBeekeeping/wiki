@@ -1,6 +1,5 @@
 # Queen events
 
-* [FAQ](faq)
 * [Spotting Queen Events (Swarming/Superseding/Emergency queen raising)](spotting)
 * [Queenlessness](determining_queenlessness)
     * [Drone Laying Workers](drone_laying_workers)
@@ -12,7 +11,6 @@
         * [Pagden Split](swarming/manipulations/pagden)
         * [Nuc Split](swarming/manipulations/nuc)
         * [Demaree Method](swarming/manipulations/demaree)
-        * Walk Away Split
     * [Clipped queens / Clipping queens](swarming/clipping)
 
     

@@ -4,10 +4,6 @@
 
 ---
 
-Lets get a couple of things straight right out of the gate: 
-1. Firstly, If you think you want to keep bees to "save the bees", please read our [Not Those Bees](/faqs/non_beekeeper/not_those_bees) page. 
-1. Secondly, bees are livestock; You should read our [Livestock, Not Pets](/faqs/non_beekeeper/livestock_not_pets) page.
-
 ## Common Questions
 
 * [How do I start beekeeping?](#how-do-i-start-beekeeping)
@@ -26,11 +22,12 @@ Lets get a couple of things straight right out of the gate:
 
 ## A Warning
 
-Beekeeping has an attrition rate of over 90% in the first 3 years. That is to say, after 3 years, 90% of beginner beekeepers are no longer beekeeping. This sounds high, but is explained by many other 90%'s that happen for beginner beekeepers who don't undertake training: 90% of beekeepers lose 90% of their colonies in the first year.
-
 **On Education:** If you are in a position where you can get training *first*, do so. Follow our roadmap, and you will reap the rewards. 
 
-**Stay on menu:** You might have some nice ideas about how you want to keep bees in a less than common fasion, and it's great that you're thinking about this at such an early stage. However, our advice is this: Stay. On. Menu. - That is, do what other people around you do, at least for a couple of years. Once you can keep bees alive reliably with a close to 100% overwinter rate, you are in a position to expand on your methods. Figuring out how not to kill bees in the standard way is hard enough - learn that first, and *then* start dipping into the buffet of unconventional shenanigans.
+**Stay on menu:** Do what other successful beekeepers around you are doing, at 
+least for a couple of years. Once you can keep bees alive reliably with a close 
+to 100% overwinter rate. learn that first, and *then* start dipping into the buffet 
+of unconventional shenanigans.
 
 ### The Roadmap
 

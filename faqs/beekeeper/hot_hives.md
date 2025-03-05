@@ -37,7 +37,7 @@ Assemble what you need before you try anything. You will require:
 - Queen exluders
 
 ### Euthanize them. 
-This is by far the simplest method. Honeybees are [not an endangered species](/faqs/non_beekeeper/not_those_bees.md) and sometimes this is a necessary solution. One simple method is to mix up 5 gallons/20 liters soapy water. (Mix 1 part dish washing liquid to 4 parts water.) Open the top of the hive and dump it in. The equipment can be reused after a thorough rinse.
+This is by far the simplest method. Honeybees are not an endangered species and sometimes this is a necessary solution. One simple method is to mix up 5 gallons/20 liters soapy water. (Mix 1 part dish washing liquid to 4 parts water.) Open the top of the hive and dump it in. The equipment can be reused after a thorough rinse.
 ### Move them. 
 Close the hive up, strap it together securely and move it to a safer location until it can be dealt with.
 ### Give them away.

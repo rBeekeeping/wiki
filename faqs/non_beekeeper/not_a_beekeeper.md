@@ -28,9 +28,9 @@ See the question below for some lovely pictures.
 ---
 # Are these honey bees in my house?
 
-* Is there a hole in your wall big enough to fit your thumb into? 
+* Is there a hole in your wall?
 * Are there insects coming and going from this hole pretty much all the time? 
-* Do these insects have "pants" on? (little colored pads stuck to their legs)
+* Are they carrying pollen? (little colored pads stuck to their legs)
 * Do these insects look a little fuzzy?
 
 If you answered yes to all of these questions, you likely have a problem... A bee problem. 

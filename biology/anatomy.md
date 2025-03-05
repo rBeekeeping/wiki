@@ -1,8 +1,4 @@
-
-> # Anatomy of Bees
->
-> Documents and explanations of the anatomy of bees
---- 
+# Anatomy of Bees
 
 [The Anatomy Of The Honeybee - R. E. Snodgrass](/documents/the_anatomy_of_the_honeybee.pdf)
 

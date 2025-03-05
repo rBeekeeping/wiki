@@ -10,14 +10,23 @@
 
 # Introduction
 
-Varroa Destructor Mite (VDM, or Varroa) are a parasitic mite that migrated from Asia to the west in some time around 1980-1990. Since it's arrival, the world of beekeeping has changed substantially. Varroa mites are external parasites that feed on the hemolymph (blood) of adult and developing bees. The mites are tiny, reddish-brown, and can be challenging to spot without close observation. Some users in our subreddit know what that world looked like from working with their family in the beekeeping businesses.
+Varroa Destructor Mite (VDM, or just Varroa) are a parasitic mite that migrated from Asia 
+to the west in some time around 1980-1992. Since it's arrival, the beekeeping landscape 
+has changed substantially. Varroa mites are external parasites that feed on adult and 
+developing bees. The mites are tiny, reddish-brown, and can be challenging to spot 
+without close observation. Some users in our subreddit know what that world looked like
+from working with their family in the beekeeping businesses.
 
-VDM causes untold colony losses every year. The mode by which this happens varies season by season, but generally speaking varroa does two things:
+VDM causes untold colony losses every year. The mode by which this happens varies season
+by season, but generally speaking varroa does two things:
 
 * Weakens the health of each individual bee being raised, thus weeakning the colony as a whole
 * Directly infects individual bees with disease, thus weakning the colony as a a whole.
 
-Varroa aren't usually the "cause" of death for a colony, but are the cause of the cause of death. Similar to how a heart attack might the cause of death for someone subsisting solely on McDonalds and Dunkin'.
+Varroa aren't usually the direct cause of death for a colony, but are the root cause of the 
+collapse. Similar to how a human subsisting solely on McDonalds and Dunkin' might have 
+heart attack. The direct cause of death is the heart attack, but the root cause is excessive
+fast food. 
 
 Treatments are available for Varroa. Think of it like treating a cat for fleas - the treatment does have an affect on the cat to some extent. In fact most pesticides are *insanely* toxic to cats, they can just handle it because they have livers and kidneys. Likewise, all treatments come at a cost to the colony, but do help with varroa loads more than they injur the colony as a whole. Take for example formic - that can push off brooding, cause supercedures, etc. It's pretty potent stuff, but it's for the greater good. Without treatments, almost all colonies eventually collapse. 
 
@@ -63,19 +72,11 @@ Adult mites that have already mated will stay phoretic -- clinging to an adult b
 
 # How Varroa Spreads
 
-Varroa spreads by 3 main vectors, in order of magnitude
-
-1. Robbing
-2. Drift
-3. On forage
-
 **Robbing:** When a colony dies off it leaves behind its entire population of very patient mites, as they are robbed dry, robbing bees take back more than just honey. That’s why these colonies are known as “mite bombs”.
 
-**Drift:** When bees (particularly drones) drift between colonies, they take more than their forage and sexual maturity with them. They also carry varroa.
+**Drift:** When bees (particularly drones) drift between colonies, they take more than just sperm with them. They also carry varroa.
 
-**Forage:** Occasionally bees leave behind mites on flowers they’ve foraged from. Other visiting bees pick them up and return home with them.
-
-All three of these things cannot be avoided *or* controlled. As such, varroa are largely unavoidable. Australia found this out when trying to controll their varroa outbreak - it took a matter of weeks from the first varroa being found to a huge number of colonies to be found with varroa. There is no avoiding it.
+Both of these things cannot be avoided *or* controlled. As such, varroa are largely unavoidable.
 
 ---
 
@@ -88,12 +89,6 @@ With the introduction of varroa, diseases have a much more simple vector - direc
 However, this isn't to say that singular findings of DWV (or other diseases) are indicative of high loads of varroa. As stated, these diseases existed long before varroa. They are endemic. If you find one or two bees with DWV, don't panic. Just do a wash if you feel that it's necessary and treat as necessary.
 
 If your colony *is* suffering from a "stress disease" such as EFB or sacbrood, it's a safe bet to wash a sample of bees (if they have the numbers) to ensure that varroa aren't contributing to colony stress.
-
----
-
-# Mite Bombs
-
-Mite bombs is defined as honeybee colony's, managed or not, that have such a high mite load that the colony collapses and the bees just leave. The now homeless bees go find another colony, bringing their mites with them. This results in people seeing no to little mites in their colony's then suddenly seing hundreds in their mite checks. This requires treatment or your bees will die. Sometimes your bees could rob a weak or recently decesed colony and bring back a ton of mites.
 
 ---
 

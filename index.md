@@ -30,52 +30,31 @@ This wiki contains curated and community reviewed guides and information for bee
     * [The Swarm Control Flow Chart](queen_events/swarming/manipulations/flow)
 * **[Varroa](varroa/)**
     * [Monitoring / Alcohol washes](varroa/monitoring)
-    * [Treatments](varroa/treatments)
-    * [Common Misconceptions About Treatment VS Treatment Free](varroa/common_misconceptions) 
     * [A note on apivar, directly from VetoPharma](varroa/apivar_misuse)
-*  **[Pests & Predators](pests/)**
-    * [Small hive beetle](pests/SHB)
-    * [Mice](pests/mice)
-    * [Wax moth](pests/wax_moth)
-    * [Wasps](pests/wasps)
 * [**Diseases**](diseases/)
-    * [Disease Matrix](diseases/chart)
     * [These are not diseases](diseases/this_is_not_disease)
-    * Sanitising boxes
-    * Disease Fact sheets
-        * [European Foul Brood (EFB)](diseases/efb)
-        * American Foul Brood (AFB)
-        * Chronic Bee Paralysis Virus (CBPV)
-        * Deformed Wing Virus (DWV)
-        * Sacbrood
-        * Chalkbrood
-        * ... more to be added
+    * [Sanitising boxes - Black Mountain Honey Guide](https://www.youtube.com/watch?v=DDePyHB4x8M)
+    * Disease sheets:
+      * [American Foul Brood (AFB)](https://beeaware.org.au/archive-pest/american-foulbrood/)
+      * [European Foul Brood (EFB)](https://beeaware.org.au/archive-pest/european-foulbrood/#ad-image-0)
+      * [Chalkbrood](https://beeaware.org.au/archive-pest/chalkbrood/)
+      * [Sacbrood Virus (SBV)](https://beeaware.org.au/archive-pest/sacbrood/)
+      * [Chronic Bee Paralysis Virus (CBPV)](https://www.nationalbeeunit.com/assets/PDFs/3_Resources_for_beekeepers/Fact_Sheets/Fact_10_Chronic_Bee_Paralysis_Virus.pdf)
 * **[Bee Biology](biology/)**
     * [Anatomy](biology/anatomy.md)
     * [Castes](biology/castes)
-    * Reproduction
-    * Queen Mandibular Pheromones (QMP) & Trophallaxis 
-    * Genetics
-    * Winter bees
     * [Africanised Honey Bees (AHB)](biology/Africanized_honeybees)
 * [**Opinion Pieces**](opinion_pieces)
     * [Anxiety](opinion_pieces/anxiety)
     * [Socialising](opinion_pieces/socialising)
 * [**Rules of thumb / General Rules**](rules_of_thumb/)
-    * [Rule of 2 - breaking up the brood nest](rules_of_thumb/rule_of_two)
     * [3 feet, or 3 miles - how to move bee hives](rules_of_thumb/three_feet_three_miles)
-* [**Extra Educational Material**](educational_material)
-    * [Books](educational_material/books)
-    * [Youtube Channels & Particular videos](educational_material/youtube)
-    * [Blogs](educational_material/blogs)
-
-  > TODO: Possibly add pictures to make this look better?
 
 ## Contributing to the wiki
 
 If you'd like to contribute to this wiki, your input would be greatly appreciated. [Please read our contributors guide here.](wiki_guides)
 
-### Found something that's objectively false?
+### Found something that's false?
 
 If you are confident that you could make the changes yourself, or want to give it a go, you can use the guide mentioned above. If you aren't confident in editing the wiki yourself, you can do the following
 
